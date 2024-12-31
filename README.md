@@ -1,5 +1,5 @@
 # PCA-Dimensionality-Reduction
-This project demonstrates PCA dimensionality reduction techniques and applies various classifiers such as KNN, Naive Bayes, SVM, and LDA on the Colon Cancer dataset. It includes two Jupyter notebooks with detailed analysis and results.
+This project demonstrates PCA dimensionality reduction techniques and applies various classifiers on the Colon Cancer dataset. It includes two Jupyter notebooks with detailed analysis and results.
 
 ## Project Structure
 - PCA-Classification.ipynb: Classification using KNN, Naive Bayes, Bayes, SVM, and LDA. Plotting of Accuracy VS. Number of Components. Plotting of Kmeans Clustering and Expectation Maximization of the features.
